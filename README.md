@@ -6,7 +6,7 @@
   <strong>:wave:I am Mufaddal Hamid a student learning Computer's from Symbiosis Institute of Computer Studies and Research. I  love to explore about smartphones and computers,    I have been Intrested in Computers Since i began Coding in my 8th,i was intrigued and fascinated by what Some lines of gibberish could do. I Always love to solve mysteries and problems. </strong>
 </p><br>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=MufaddalHamidr&count_private=true&show_icons=true&theme=shades-of-purple" alt = "Profile stats">
+<img src = "https://github-readme-stats.vercel.app/api?username=MufaddalHamid&count_private=true&show_icons=true&theme=shades-of-purple" alt = "Profile stats">
 
 ## Connect with me :
 
