@@ -1,7 +1,5 @@
 ### Hi Mufaddal here 👋
 
-<!--
-**MufaddalHamid/MufaddalHamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +12,4 @@ Here are some ideas to get you started:
 [Linkedlin](https://www.linkedin.com/in/mufaddal-hamid-575358193/)  [Facebook](https://www.facebook.com/mufaddal.hamid.7587)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
