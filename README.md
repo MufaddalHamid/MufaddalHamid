@@ -1,7 +1,6 @@
 ### Hi Mufaddal here 👋
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Different types on Bot's and android app
 - 🌱 I’m currently learning ... As a developer at Symbiosis institute of computer studies and Research
