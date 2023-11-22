@@ -5,7 +5,7 @@
   <br>
   <strong>:wave:Web Developer | Python | Java | ASP.NET MVC | JavaScript | SQL | MongoDB | PHP
 
-3 + Years of Experience as Web and Software Developer in Python, Java, ASP.NET, JavaScript, SQL, and MongoDB. Proficient in object-oriented programming concepts and Design Patterns and SDLC Models . Passionate about creating efficient and robust software solutions. Eager to collaborate and contribute to innovative projects. Open to new opportunities in Cloud and Web Solutions and Companies. Let's connect! </strong>
+2 + Years of Experience as Web and Software Developer in Python, Java, ASP.NET, JavaScript, SQL, and MongoDB. Proficient in object-oriented programming concepts and Design Patterns and SDLC Models . Passionate about creating efficient and robust software solutions. Eager to collaborate and contribute to innovative projects. Open to new opportunities in Cloud and Web Solutions and Companies. Let's connect! </strong>
 </p>
 <br>
 
